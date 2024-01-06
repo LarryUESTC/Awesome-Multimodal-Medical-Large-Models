@@ -5,11 +5,12 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.5
+✅ Continue update 2024.1.6
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
 # Papers
+
 
 1. 📜 **Towards Generalist Biomedical AI (Med-PaLM M)** 🔥 
     - 🗓️ Date: 2023.07
@@ -54,6 +55,13 @@
     - 📄 [PDF](https://www.nature.com/articles/s41591-022-01981-2)
     - 📌 Keys: Multimodal, survey
 
+6. 📜 **A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges**
+    - 🗓️ Date: 2023.11
+    - 📖 arXiv
+    - 🧑‍ Authors:Hongjian Zhou, Fenglin Liu, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S. Chen, Peilin Zhou, Junling Liu, Yining Hua, Chengfeng Mao, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton
+    - 📄 [PDF](https://arxiv.org/pdf/2311.05112.pdf)
+    - 📌 Keys: LLM, survey
+
 
 # Base papers
 
@@ -88,8 +96,15 @@
     - 📄 [PDF](https://arxiv.org/pdf/2305.05665.pdf)
     - 💻 [GitHub](https://facebookresearch.github.io/ImageBind)
     - 📌 Keys: Unified multi-modal Modal, token is all you need
-   
-# Datasets
+
+# Related papers
+
+## SAM
+
+## LLM
+
+
+# Multimodal medical datasets
 
 | Name    | Modality | Size | Task | Organ | Link |
 |---------|----------|------|------|-------|------|
