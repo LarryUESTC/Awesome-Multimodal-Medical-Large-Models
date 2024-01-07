@@ -29,7 +29,7 @@
     - 💻 [GitHub](https://github.com/chaoyi-wu/RadFM)
     - 📌 Keys: Foundation model, multi-modalities, multi-tasks
     - 🔬 Datasets: MedMD, RadMD
-    - 
+    
 3. 📜 **CLIP in medical imaging: A comprehensive survey**
     - 🗓️ Date: 2023.12
     - 📖 arXiv
@@ -62,6 +62,14 @@
     - 📄 [PDF](https://arxiv.org/pdf/2311.05112.pdf)
     - 📌 Keys: LLM, survey
 
+7. 📜 **Large-scale Long-tailed Disease Diagnosis on Radiology Images**🔥
+    - 🗓️ Date: 2023.12
+    - 📖 arXiv
+    - 🧑‍ Authors:Qiaoyu Zheng, Weike Zhao, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie
+    - 📄 [PDF](https://arxiv.org/pdf/2312.16151)
+    - 💻 [GitHub](https://github.com/qiaoyu-zheng/RP3D-Diag)
+    - 📌 Keys: Foundation model, multi-modalities, multi-tasks
+    - 🔬 Datasets:  ICD-10-CM
 
 # Base papers
 
@@ -116,4 +124,4 @@
 |MultiMedBench|          |      |      |       |      |
 |MedMD |          |      |      |       |      |
 |RadMD |          |      |      |       |      |
-|         |          |      |      |       |      |
+|ICD-10-CM |          |      |      |       |      |
