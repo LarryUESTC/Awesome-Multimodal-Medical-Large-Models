@@ -5,7 +5,7 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.8
+✅ Continue update 2024.1.9
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
@@ -102,7 +102,15 @@
     - 📄 [PDF](https://arxiv.org/pdf/2307.15189.pdf)
     - 💻 [GitHub](https://github.com/RyanWangZf/MedCLIP)
     - 📌 Keys: CLIP; Zero-shot
-   
+
+12. 📜 **PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents**
+    - 🗓️ Date: 2023.03
+    - 📖 MICCAI 2023
+    - 🧑‍ Authors:Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie
+    - 📄 [PDF](https://arxiv.org/pdf/2307.15189.pdf)
+    - 💻 [GitHub](https://github.com/WeixiongLin/PMC-CLIP)
+    - 📌 Keys: CLIP;  Image-caption construction
+
 # Base papers
 
 1. 📜 **CLIP**
@@ -112,7 +120,7 @@
     - 📄 [PDF](https://arxiv.org/pdf/2103.00020.pdf)
     - 💻 [GitHub](https://github.com/openai/CLIP)
     - 📌 Keys: Contrastive Language-Image Pre-Training
-    - 
+
 2. 📜 **MaPLe: Multi-modal Prompt Learning**
     - 🗓️ Date: 2023
     - 📖 CVPR 2023
@@ -146,15 +154,17 @@
 
 # Multimodal medical datasets
 
-| Name             | Modality                              | Size | Task | Organ | Link |
-|------------------|---------------------------------------|------|------|-------|------|
-| ADNI             | MRI, PET, fMRI, clinical, Gene, Table |      |      |       |      |
-| ABIDE            | MRI, PET                              |      |      |       |      |
-| INSPECT          |                                       |      |      |       |      |
-| MIMIC            |                                       |      |      |       |      |
-| UK Biobank       |                                       |      |      |       |      |
-| MultiMedBench    |                                       |      |      |       |      |
-| MedMD            |                                       |      |      |       |      |
-| RadMD            |                                       |      |      |       |      |
-| ICD-10-CM        |                                       |      |      |       |      |
-| TCGA(-LUAD/STAD) | WSIs, clinical, Gene                  |      |      |       |      |
+| Name             | Modality                              | Size  | Task | Organ | Link |
+|------------------|---------------------------------------|-------|------|-------|------|
+| ADNI             | MRI, PET, fMRI, clinical, Gene, Table |       |      |       |      |
+| ABIDE            | MRI, PET                              |       |      |       |      |
+| INSPECT          |                                       |       |      |       |      |
+| MIMIC-CXR        | X-ray-text pairs                      |       |      |       |      |
+| UK Biobank       |                                       |       |      |       |      |
+| MultiMedBench    |                                       |       |      |       |      |
+| MedMD            |                                       |       |      |       |      |
+| RadMD            |                                       |       |      |       |      |
+| ICD-10-CM        |                                       |       |      |       |      |
+| TCGA(-LUAD/STAD) | WSIs, clinical, Gene                  |       |      |       |      |
+| MedICaT          | CT-text pairs                         |       |      |       |      |
+| ROCO             | CT-text pairs                         | 217K  |      |       |      |
