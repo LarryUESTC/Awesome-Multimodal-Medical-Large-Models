@@ -61,6 +61,7 @@
     - 📖 arXiv
     - 🧑‍ Authors:Hongjian Zhou, Fenglin Liu, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S. Chen, Peilin Zhou, Junling Liu, Yining Hua, Chengfeng Mao, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton
     - 📄 [PDF](https://arxiv.org/pdf/2311.05112.pdf)
+    - 💻 [GitHub](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
     - 📌 Keys: LLM; Survey
 
 7. 📜 **Large-scale Long-tailed Disease Diagnosis on Radiology Images**🔥
