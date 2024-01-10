@@ -5,7 +5,7 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.9
+✅ Continue update 2024.1.10
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
@@ -111,6 +111,14 @@
     - 💻 [GitHub](https://github.com/WeixiongLin/PMC-CLIP)
     - 📌 Keys: CLIP;  Image-caption construction
 
+13. 📜 **Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**
+    - 🗓️ Date: 2023.10
+    - 📖 arXiv
+    - 🧑‍ Authors:Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof
+    - 📄 [PDF](https://arxiv.org/pdf/2310.18689.pdf)
+    - 💻 [GitHub](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)
+    - 📌 Keys: Foundational models;  Survey
+    - 
 # Base papers
 
 1. 📜 **CLIP**
