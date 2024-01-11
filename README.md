@@ -5,7 +5,7 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.10
+✅ Continue update 2024.1.11
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
@@ -159,6 +159,29 @@
 ## SAM
 
 ## LLM
+
+1. 📜 **Pixel Aligned Language Models**
+    - 🗓️ Date: 2023.12
+    - 📖 arXiv
+    - 🧑‍ Authors: Jiarui Xu, Xingyi Zhou, Shen Yan, Xiuye Gu, Anurag Arnab, Chen Sun, Xiaolong Wang, Cordelia Schmid
+    - 📄 [PDF](https://arxiv.org/pdf/2312.09237.pdf)
+    - 💻 [GitHub](https://jerryxu.net/PixelLLM/)
+    - 📌 Keys: LLM
+
+2. 📜 **PixelLM: Pixel Reasoning with Large Multimodal Model**
+    - 🗓️ Date: 2023.12
+    - 📖 arXiv
+    - 🧑‍ Authors: Zhongwei Ren, Zhicheng Huang, Yunchao Wei, Yao Zhao, Dongmei Fu, Jiashi Feng, Xiaojie Jin
+    - 📄 [PDF](https://arxiv.org/pdf/2312.09237.pdf)
+    - 💻 [GitHub](https://pixellm.github.io/)
+    - 📌 Keys: LLM
+
+3. 📜 **SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**
+    - 🗓️ Date: 2023.06
+    - 📖 NeurIPS 2023
+    - 🧑‍ Authors: Lijun Yu, Yong Cheng, Zhiruo Wang, Vivek Kumar, Wolfgang Macherey, Yanping Huang, David A. Ross, Irfan Essa, Yonatan Bisk, Ming-Hsuan Yang, Kevin Murphy, Alexander G. Hauptmann, Lu Jiang
+    - 📄 [PDF](https://arxiv.org/pdf/2306.17842.pdf)
+    - 📌 Keys: LLM; Multimodal
 
 
 # Multimodal medical datasets
