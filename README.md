@@ -156,7 +156,7 @@
 
 5. 📜 **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**
     - 🗓️ Date: 2023.01
-    - 📖 CVPR 2023
+    - 📖 ICML 2023
     - 🧑‍ Authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
     - 📄 [PDF](https://arxiv.org/pdf/2301.12597.pdf)
     - 💻 [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
