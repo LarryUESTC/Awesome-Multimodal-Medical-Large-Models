@@ -5,7 +5,7 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.11
+✅ Continue update 2024.1.15
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
@@ -154,6 +154,13 @@
     - 💻 [GitHub](https://facebookresearch.github.io/ImageBind)
     - 📌 Keys: Unified multi-modal Modal, token is all you need
 
+5. 📜 **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**
+    - 🗓️ Date: 2023.01
+    - 📖 CVPR 2023
+    - 🧑‍ Authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
+    - 📄 [PDF](https://arxiv.org/pdf/2301.12597.pdf)
+    - 💻 [GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
+    - 📌 Keys: Multi-modal; Q-Former
 # Related papers
 
 ## SAM
