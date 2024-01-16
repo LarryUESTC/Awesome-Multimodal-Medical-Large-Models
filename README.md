@@ -119,7 +119,30 @@
     - 📄 [PDF](https://arxiv.org/pdf/2310.18689.pdf)
     - 💻 [GitHub](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)
     - 📌 Keys: Foundational models;  Survey
-    - 
+
+14. 📜 **MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts**
+    - 🗓️ Date: 2023.06
+    - 📖 arXiv
+    - 🧑‍ Authors: Bang Yang, Asif Raza, Yuexian Zou, Tong Zhang
+    - 📄 [PDF](https://arxiv.org/pdf/2306.05642.pdf)
+    - 💻 [GitHub](https://github.com/Qybc/MedBLIP)
+    - 📌 Keys: BLIP2; VQA
+
+15. 📜 **Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning**
+    - 🗓️ Date: 2023.11
+    - 📖 arXiv
+    - 🧑‍ Authors: Zhenyu Zhang, Benlu Wang, Weijie Liang, Yizhi Li, Xuechen Guo, Guanhong Wang, Shiyan Li, Gaoang Wang
+    - 📄 [PDF](https://arxiv.org/pdf/2311.01004.pdf)
+    - 📌 Keys: BLIP2; SAM
+
+16. 📜 **Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost**
+    - 🗓️ Date: 2023.06
+    - 📖 arXiv
+    - 🧑‍ Authors: Juexiao Zhou and Xiuying Chen and Xin Gao
+    - 📄 [PDF](https://arxiv.org/pdf/2306.10765.pdf)
+    - 💻 [GitHub](https://github.com/JoshuaChou2018/MedAGI)
+    - 📌 Keys: MedChat
+
 # Base papers
 
 1. 📜 **CLIP**
