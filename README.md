@@ -5,7 +5,7 @@
 
 🔥  This is a collection of awesome (not comprehensive but high quality) papers about *Multimodal Medical Data Analysis*
 
-✅ Continue update 2024.1.15
+✅ Continue update 2024.1.16
 
 😊 If you have any recommended papers, pls feel free to contact me ([Email](larrypengliang@gmail.com) or WeChat: pl15828102252)
 
